@@ -1,6 +1,6 @@
 title: Streamdata Gallery
 url: google-knowledge-graph-search.api.streamdata.gallery
-tag: Temmplate
+tag: Google Knowledge Graph Search
 markdown: kramdown
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md", ".DS_Store"]
 github_user: streamdata-gallery-organizations
