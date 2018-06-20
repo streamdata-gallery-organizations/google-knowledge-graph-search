@@ -4,7 +4,7 @@ x-collection-name: Google Knowledge Graph Search
 x-complete: 1
 info:
   title: Knowledge Graph Search
-  description: searches-the-google-knowledge-graph-for-entities
+  description: searches-the-google-knowledge-graph-for-entities-
   contact:
     name: Google
     url: https://google.com

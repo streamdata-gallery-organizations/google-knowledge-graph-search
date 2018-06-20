@@ -9,10 +9,10 @@ description: 'The Knowledge Graph Search API lets you find entities in the Googl
   content using the Knowledge Graph entities.'
 image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Google-Knowledge-Graph.jpg
 x-kinRank: "9"
-x-alexaRank: ""
+x-alexaRank: "0"
 tags: Google Knowledge Graph Search
-created: "2018-05-21"
-modified: "2018-05-21"
+created: "2018-06-20"
+modified: "2018-06-20"
 url: https://raw.githubusercontent.com/streamdata-gallery-organizations/google-knowledge-graph-search/master/_listings/google-knowledge-graph-search/apis.md
 specificationVersion: "0.14"
 apis:
