@@ -5,7 +5,7 @@ description: This is a repository of google knowledge graph search APIs, self-co
   surrounding operations.
 image: http://template.streamdata.gallery/assets/google-knowledge-graph-search.png
 created: "2018-02-24"
-modified: "2018-06-20"
+modified: "2018-06-25"
 url: http://google-knowledge-graph-search.streamdata.gallery/apis.json
 specificationVersion: "0.14"
 apis: []
